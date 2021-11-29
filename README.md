@@ -27,7 +27,7 @@ Execute a StoredProcedure
 | Property | Type | Description | Example |
 | -------- | -------- | -------- | -------- |
 | Execute | `string` | Call a stored procedure | `CALL sv_proc1(:arg1, 127.4);` -- obs. snowflake expect parameters to be in form `:arg` in Query |
-| Parameters | `Array` | Parameters for the procedure | { Name = 'arg1' , Value = #var.arg1 } |
+| Parameters | `Array` | Parameters for the procedure | { Name = "arg1" , Value = #var.arg1 } |
 | Connection String | `Secret` | Connection string for the Snowflake instace | 
 
 ### Options
@@ -70,7 +70,7 @@ Execute a Query
 | Property | Type | Description | Example |
 | -------- | -------- | -------- | -------- |
 | Query | `string` | Query string | `SELECT * FROM table where arg1 = :arg1;` -- obs. snowflake expect parameters to be in form `:arg` in Query |
-| Parameters | `Array` | Parameters for the procedure | { Name = 'arg1' , Value = #var.arg1 } |
+| Parameters | `Array` | Parameters for the procedure | { Name = "arg1" , Value = #var.arg1 } |
 | Connection String | `Secret` | Connection string for the Snowflake instace | 
 
 ### Options
@@ -138,3 +138,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 | Version | Changes |
 | ------- | ------- |
 | 0.0.1   | Development still going on |
+| 0.0.2   | Documentation changes |
