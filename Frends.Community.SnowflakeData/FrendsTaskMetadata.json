@@ -1,0 +1,10 @@
+﻿{
+	"Tasks": [
+		{
+			"TaskMethod": "Frends.Community.SnowflakeData.Flake.ExecuteQuery"
+		},
+		{
+			"TaskMethod": "Frends.Community.SnowflakeData.Flake.ExecuteProcedure"
+		}
+	]
+}
