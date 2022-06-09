@@ -1,6 +1,6 @@
 # Frends.Community.SnowflakeData
 
-frends Community Task for Echo
+frends Community Task for Retriving data from [Snowflake](https://www.snowflake.com/)
 
 [![Actions Status](https://github.com/CommunityHiQ/Frends.Community.SnowflakeData/workflows/PackAndPushAfterMerge/badge.svg)](https://github.com/CommunityHiQ/Frends.Community.SnowflakeData/actions) ![MyGet](https://img.shields.io/myget/frends-community/v/Frends.Community.SnowflakeData) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 
