@@ -139,3 +139,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 | ------- | ------- |
 | 0.0.1   | Development still going on |
 | 0.0.2   | Documentation changes |
+| 0.0.3   | upgraded Snowflake.Data package to 1.2.9 |
