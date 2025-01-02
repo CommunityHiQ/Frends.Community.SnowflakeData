@@ -140,4 +140,4 @@ NOTE: Be sure to merge the latest from "upstream" before making a pull request!
 | 0.0.1   | Development still going on |
 | 0.0.2   | Documentation changes |
 | 0.0.3   | upgraded Snowflake.Data package to 1.2.9 |
-| 0.0.4   | Targeted to .NET Standard 2.0, .NET Framework 4.7.1, .NET6 and .NET8, and updated System.ComponentModel.Annotations to 5.0.0 |
+| 0.2.0   | Targeted to .NET Standard 2.0, .NET Framework 4.7.1, .NET6 and .NET8, and updated System.ComponentModel.Annotations to 5.0.0 |
